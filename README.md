@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## My name is Federico Barrezueta
-## - 🔭 I’m currently working on Specific Compaany Projects
+## - 🔭 I’m currently working on Specific Company Projects
 ## - 🌱 I’m currently learning CNC control and programming, Versioning Control Systems
 ## - 💬 Ask me about : Industrial Automation -> PLC, Robots
 ## - 📫 How to reach me: barrezueta@dreibond.de
